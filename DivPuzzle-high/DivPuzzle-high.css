@@ -39,32 +39,32 @@ body {
   height: 250px;
   background: #00ff51
   }
-  .orange1-box {
-    border: 5px solid #ffffff;
-    margin: 10px;
-    float: left;
-    width: 140px;
-    height: 40px;
-    position: absolute; top: 125px; left: 180px;
-    background: #ff863f
+.orange1-box {
+  border: 5px solid #ffffff;
+  margin: 10px;
+  float: left;
+  width: 140px;
+  height: 40px;
+  position: absolute; top: 125px; left: 180px;
+  background: #ff863f
   }
-  .orange2-box {
-    border: 5px solid #ffffff;
-    margin: 10px;
-    float: left;
-    width: 140px;
-    height: 40px;
-    position: absolute; top: 185px; left: 180px;
-    background: #ff863f
+.orange2-box {
+  border: 5px solid #ffffff;
+  margin: 10px;
+  float: left;
+  width: 140px;
+  height: 40px;
+  position: absolute; top: 185px; left: 180px;
+  background: #ff863f
   }
-  .orange3-box {
-    border: 5px solid #ffffff;
-    margin: 10px;
-    float: left;
-    width: 140px;
-    height: 40px;
-    position: absolute; top: 245px; left: 180px;
-    background: #ff863f
+.orange3-box {
+  border: 5px solid #ffffff;
+  margin: 10px;
+  float: left;
+  width: 140px;
+  height: 40px;
+  position: absolute; top: 245px; left: 180px;
+  background: #ff863f
   }
 .blown-box {
   float: left;
