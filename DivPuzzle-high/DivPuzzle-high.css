@@ -16,7 +16,7 @@ body {
   padding: 10px;
   position: absolute;  top: 10px;
 }
-.purple1-box,.purple2-box,.purple3-box {
+.purple1-box,.purple2-box,.purple3-box{
   border: 10px solid #ffffff;
   width:  40px;
   height:  40px;
@@ -39,25 +39,23 @@ body {
   background: #00ff51
 }
 .middle-box{
-  padding: 40px;
+  padding: 50px;
   position:  absolute; left: 140px;
 }
-  .orange1-box,.orange2-box,.orange3-box {
+  .orange-box1,.orange-box2,.orange-box3 {
     border: 5px solid #ffffff;
-    margin: 10px;
-    float: left;
     width:  140px;
     height:  40px;
     background: #ff863f;
 }
-.orange1-box {
-  position: absolute; top: 20px;
+.orange-box1{
+  position: absolute; top: 30px;
 }
-.orange2-box {
-  position: absolute; top: 80px;
+.orange-box2{
+  position: absolute; top: 90px;
 }
-.orange3-box {
-  position: absolute; top: 140px;
+.orange-box3{
+  position: absolute; top: 150px;
 }
 .blown-box {
   float: left;
