@@ -17,20 +17,20 @@ body {
   padding: 10px;
   position: relative;  top: 10px;
   right: 10px;
+  background: #ffffff;
 }
-.purple1-box,.purple2-box,.purple3-box{
-  border: 10px solid #ffffff;
+.purple-box{
   width:  40px;
   height:  40px;
   background: #a9004b;
 }
-.purple1-box {
+.purple-box {
   position: absolute;  left: 315px;
 }
-.purple2-box {
+.purple-box {
   position: absolute;  left: 265px;
 }
-.purple3-box {
+.purple-box {
   position: absolute;  left: 215px;
 }
 .green-box {
