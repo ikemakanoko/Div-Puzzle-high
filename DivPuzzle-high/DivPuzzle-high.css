@@ -10,7 +10,8 @@ body {
 .red-box {
   width: 400px;
   height: 100px;
-  background: #ff0000
+  background: #ff0000;
+  position: relative;
 }
 .little-box{
   padding: 10px;
@@ -21,7 +22,6 @@ body {
   width:  40px;
   height:  40px;
   background: #a9004b;
-
 }
 .purple1-box {
   position: absolute;  left: 315px;
