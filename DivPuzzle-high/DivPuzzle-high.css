@@ -36,20 +36,11 @@ body {
   padding: 50px;
   position:  absolute; left: 140px;
 }
-  .orange-box1,.orange-box2,.orange-box3 {
+  .orange-box{
     border: 5px solid #ffffff;
     width:  140px;
     height:  40px;
     background: #ff863f;
-}
-.orange-box1{
-  position: absolute; top: 30px;
-}
-.orange-box2{
-  position: absolute; top: 90px;
-}
-.orange-box3{
-  position: absolute; top: 150px;
 }
 .blown-box {
   float: left;
