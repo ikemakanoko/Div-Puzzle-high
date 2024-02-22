@@ -14,14 +14,14 @@ body {
   position: relative;
 }
 .little-box{
-  padding: 10px 0 0 10px;
+  padding: 5px 5px 5px 5px;
   position: absolute;  top: 20px;
   right: 20px;
   background: #ffffff;
 }
 .purple-box{
   float: left;
-  margin: 10px 0 0 10px;
+  margin: 5px 5px 5px 5px;
   width:  40px;
   height:  40px;
   background: #a9004b;
