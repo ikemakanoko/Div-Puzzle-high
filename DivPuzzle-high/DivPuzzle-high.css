@@ -14,17 +14,20 @@ body {
   position: relative;
 }
 .little-box{
-  padding: 10px 10px 10px 0;
+  padding: 10px;
   position: absolute;  top: 20px;
   right: 20px;
   background: #ffffff;
 }
 .purple-box{
   float: left;
-  margin: 0 0 0 10px;
+  margin-left: 10px;
   width:  40px;
   height:  40px;
   background: #a9004b;
+}
+.purple-box:first-child{
+  margin: 0;
 }
 .green-box {
   float: left;
@@ -33,9 +36,7 @@ body {
   background: #00ff51
 }
 .middle-box{
-  margin: 0 10px 0 10px;
-  padding: 40px;
-  position:  absolute; left: 140px;
+  position:  absolute; left: 190px; top: 140px;
 }
   .orange-box{
     margin: 0 0 10px 0;
